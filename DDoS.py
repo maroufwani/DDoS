@@ -41,9 +41,9 @@ def menu():
 ████████████████████████
 █▄─▄▄▀█▄─▄▄▀█─▄▄─█─▄▄▄▄█
 ██─██─██─██─█─██─█▄▄▄▄─█
-▀▄▄▄▄▀▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▄▄▀n""" + color.blue + """
-         ----[    This code write by (maroufwani)   ]---
-        -------[ github :""" + color.blue + """ https://github.com/maroufwani ]-----------""" + color.End)
+▀▄▄▄▄▀▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▄▄▀""" + color.blue + """
+This code write by (maroufwani)
+[github:""" + color.blue + """ https://github.com/maroufwani]""" + color.End)
     host = input("\nEnter Host: ")
     time.sleep(1)
     port = int(input("\nEnter Target port: "))
