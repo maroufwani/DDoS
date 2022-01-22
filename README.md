@@ -53,5 +53,5 @@ cd Update
 [MIT](https://github.com/maroufwani/DDoS/blob/main/LICENSE)
 
 ### [maroufwani](https://github.com/maroufwani) Account...
-[Instagram](https://instagram.com/maroufwani)
+[Instagram](https://instagram.com/marouf.wani)
 
